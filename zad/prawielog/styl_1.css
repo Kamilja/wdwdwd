@@ -1,0 +1,83 @@
+body{
+    background-color: #F6E5DC;
+    font-family: Verdana;
+}
+.banner{
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+    padding-left: 500px;
+    font-size: 21px;
+}
+.lewy{
+    width: 60%;
+    float: left;
+}
+.prawy{
+    font-size: 150%;
+    padding: 70px;
+    float: left;
+
+}
+.dolny{
+    background-color: #D0B6A8;
+    text-align: center; 
+    padding: 30px;
+    clear: both;
+}
+.footer {
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+button{
+    margin:10px;
+    padding: 5px;
+    background-color: #2F180C;
+    color: khaki;
+    cursor: pointer;
+}
+.pusty{
+    clear:both;
+}
+.przycisk{
+    background-color: #2F180C;
+    color: khaki;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: auto;
+    text-align: right;
+}
+.formularz{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+    height: 200px;
+}
+.podbannerem{
+    text-align: center;
+    color: #2F180C;
+    height: 60px;
+    font-size: 21px;
+}
+.menulogin{
+    float: right;
+}
+.lewyreg{
+    width: 47%;
+    float: left;
+    text-align: right;
+    height: 125px;
+    line-height: 21px;
+}
+.prawyreg{
+    width: 53%;
+    float: right;
+    text-align: left;
+    height: 125px;
+    line-height: 20px;
+}

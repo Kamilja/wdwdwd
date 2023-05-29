@@ -1,0 +1,77 @@
+body{
+    background-color: #F6E5DC;
+    font-family: Verdana;
+}
+.banner{
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+    padding-left: 500px;
+}
+.lewy{
+    width: 60%;
+    float: left;
+}
+.prawy{
+    font-size: 150%;
+    padding: 70px;
+    float: left;
+
+}
+.dolny{
+    background-color: #D0B6A8;
+    text-align: center; 
+    padding: 30px;
+    clear: both;
+}
+.footer {
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+button{
+    margin:10px;
+    padding: 5px;
+    background-color: #2F180C;
+    color: khaki;
+    cursor: pointer;
+}
+.pusty{
+    clear:both;
+}
+.przycisk{
+    background-color: #2F180C;
+    color: khaki;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: auto;
+    text-align: right;
+}
+.formularz{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+    
+}
+.podbannerem{
+    text-align: center;
+    color: #2F180C;
+    height: 60px;
+}
+.menulogin{
+    float: right;
+}
+.lewyreg{
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.prawyreg{
+    width: 50%;
+    float: left;
+    text-align: left;
+}

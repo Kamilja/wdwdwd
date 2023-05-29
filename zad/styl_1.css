@@ -1,0 +1,67 @@
+body{
+    background-color: #F6E5DC;
+    font-family: Verdana;
+}
+.banner{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+    float: left;
+}
+.podbannerem{
+    text-align: center;
+    color: #2F180C;
+    height: 60px;
+}
+.przycisk{
+    background-color: #2F180C;
+    color: khaki;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: auto;
+    clear: both;
+}
+.logowanie{
+    float: right;
+    
+}
+.lewy{
+    width: 60%;
+    float: left;
+}
+.prawy{
+    font-size: 150%;
+    padding: 70px;
+    float: left;
+
+}
+.dolny{
+    background-color: #D0B6A8;
+    text-align: center; 
+    padding: 30px;
+    clear: both;
+}
+.footer {
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+button{
+    margin:10px;
+    padding: 5px;
+    background-color: #2F180C;
+    color: khaki;
+}
+.formularz{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+}
+.pusty{
+    clear: both;
+}
